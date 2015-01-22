@@ -17,4 +17,13 @@ You’ll find that we’re incredibly easy to do business with – and you can t
 
 We’ve prepared sample code in a number of different programming languages that anyone can use to get started. 
 
-* [Clickatell NodeJS Library](https://github.com/clickatell/clickatell-node) 
+* [Android Library](https://github.com/clickatell/clickatell-android)
+* [C Library](https://github.com/clickatell/clickatell-c)
+* [C# Library](https://github.com/clickatell/clickatell-csharp)
+* [C++ Library](https://github.com/clickatell/clickatell-cpp)
+* [iOS Library](https://github.com/clickatell/clickatell-ios)
+* [Java Library](https://github.com/clickatell/clickatell-java)
+* [NodeJS Library](https://github.com/clickatell/clickatell-node)
+* [PHP Library](https://github.com/clickatell/clickatell-php)
+* [Python Library](https://github.com/clickatell/clickatell-python)
+* [Ruby Library](https://github.com/clickatell/clickatell-ruby)
