@@ -1,4 +1,4 @@
-# Clickatell APIs
+# Clickatell APIs and Libraries Project
 
 ## Overview
 
