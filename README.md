@@ -9,9 +9,16 @@ You’ll find that we’re incredibly easy to do business with – and you can t
 ## Resources
 
 * Sign up at [clickatell.com/register](https://www.clickatell.com/register)
+ 
+------
+
 * [HTTP/S API resources and documentation](https://www.clickatell.com/apis-scripts/apis/http-s/)
 * [REST API resources and documentation](https://www.clickatell.com/apis-scripts/apis/rest/)
+
+------
+
 * [Other APIs' resources and documentation](https://www.clickatell.com/apis-scripts/apis/)
+* [Help resources](https://www.clickatell.com/product-help/developers-central/)
 
 ## Sample Code
 
@@ -26,4 +33,4 @@ We’ve prepared sample code in a number of different programming languages that
 * [NodeJS Library](https://github.com/clickatell/clickatell-node)
 * [PHP Library](https://github.com/clickatell/clickatell-php)
 * [Python Library](https://github.com/clickatell/clickatell-python)
-* [Ruby Library](https://github.com/clickatell/clickatell-ruby)
+* [Ruby Examples](https://github.com/clickatell/clickatell-ruby)
